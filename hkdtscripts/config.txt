@@ -1,0 +1,12 @@
+db_ip=172.16.15.44
+db_user=root
+db_password=Rhxd@2024!
+db_database=db_xgdt
+mongo_ip=172.16.15.44:27000
+mongo_user=admin
+mongo_password=Rhxd2024
+
+redis_ip=172.16.15.44
+redis_port=6300
+redis_db=0
+redis_password=Rhxd2024

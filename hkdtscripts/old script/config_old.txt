@@ -1,0 +1,7 @@
+db_ip=47.242.188.37
+db_user=root
+db_password=rhxd@164
+db_database=db_xgdt
+mongo_ip=47.242.188.37:27000
+mongo_user=admin
+mongo_password=rhxd1234
